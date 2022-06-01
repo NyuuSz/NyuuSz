@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @NyuuSz
-- 🌱 I’m currently learning Java, PHP, HTML and CSS
-- 📫 How to reach me... that ain't a thing at the moment, but once i get more experience imma create sth
+- 🌱 I’m currently learning a few languages such as React, Node, JS, Java, and PHP
+- 📫 How to reach me... that ain't a thing at the moment, but once I manage to get more experience imma create sth
